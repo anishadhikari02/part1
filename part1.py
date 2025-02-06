@@ -6,3 +6,10 @@ b=6
 print(f"The perimeter of rectangle is {2*(a+b)}.")
 
 """
+
+# 2)  
+
+"""
+print("Python is great,it's wild!")
+
+"""
